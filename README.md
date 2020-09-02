@@ -57,7 +57,7 @@
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
     * [Original Paper Link](https://arxiv.org/abs/1712.04248) / Paper Review Video / Summary PDF / Code Practice
 
-### 지난 논문 리뷰
+### 지난 논문 리뷰 콘텐츠
 
 * Explaining and Harnessing Adversarial Examples (ICLR 2015)
     * [Original Paper Link](https://arxiv.org/abs/1412.6572) / [Paper Review Video](https://www.youtube.com/watch?v=99uxhAjNwps)
@@ -67,3 +67,11 @@
     * [Original Paper Link](https://arxiv.org/abs/1706.06083) / [Paper Review Video](https://www.youtube.com/watch?v=6RBpdAC9nwY)
 * Adversarial Examples Are Not Bugs, They Are Features (NIPS 2019)
     * [Original Paper Link](https://arxiv.org/abs/1905.02175) / [Paper Review Video](https://www.youtube.com/watch?v=Y7O47Kq8pmU)
+* Certified Robustness to Adversarial Examples with Differential Privacy (S&P 2019)
+    * [Original Paper Link](https://arxiv.org/abs/1802.03471) / [Paper Review Video](https://www.youtube.com/watch?v=ySJUlEVlXfk)
+* Obfuscated Gradients Give a False Sense of Security (ICML 2018)
+    * [Original Paper Link](https://arxiv.org/abs/1802.00420) / [Paper Review Video](https://www.youtube.com/watch?v=0O_Bxln9bTw)
+* Constructing Unrestricted Adversarial Examples with Generative Models (NIPS 2018)
+    * [Original Paper Link](https://arxiv.org/abs/1805.07894) / [Paper Review Video](https://www.youtube.com/watch?v=IDtaVjJoV4g)
+* Adversarial Patch (NIPS 2018)
+    * [Original Paper Link](https://arxiv.org/abs/1712.09665) / [Paper Review Video](https://www.youtube.com/watch?v=pOlPlTCfCQE)
