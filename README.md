@@ -6,7 +6,7 @@
 #### Image Recognition (이미지 인식)
 
 * End-to-End Object Detection with Transformers (ECCV 2020)
-    * [Original Paper Link](https://arxiv.org/abs/2005.12872) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/2005.12872) / Paper Review Video / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
 * Searching for MobileNetV3 (ICCV 2019)
     * [Original Paper Link](https://arxiv.org/abs/1905.02244) / Paper Review Video / Summary PDF / Code Practice
 * Deep Residual Learning for Image Recognition (CVPR 2016)
