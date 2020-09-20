@@ -50,7 +50,7 @@
 #### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
 
 * Breaking certified defenses: Semantic adversarial examples with spoofed robustness certificates (ICLR 2020)
-    * [Original Paper Link](https://arxiv.org/abs/2003.08937) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/2003.08937) / Paper Review Video / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1907.11932) / Paper Review Video / Summary PDF / Code Practice
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
