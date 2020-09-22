@@ -2,6 +2,7 @@
 
 * 꼼꼼한 딥러닝 논문 리뷰와 코드 실습을 위한 저장소입니다.
 * 최신 논문 위주로, 많은 인기를 끌고 있는 다양한 딥러닝 논문을 소개합니다.
+* 질문 사항은 본 저장소의 <b>[이슈(Issues)](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/issues)</b> 탭에 남겨주세요.
 
 #### Image Recognition (이미지 인식)
 
