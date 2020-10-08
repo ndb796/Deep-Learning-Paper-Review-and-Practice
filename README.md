@@ -31,7 +31,7 @@
 * Meta-Transfer Learning for Zero-Shot Super-Resolution (CVPR 2020)
     * [Original Paper Link](https://arxiv.org/abs/2002.12213) / Paper Review Video / Summary PDF / Code Practice
 * SinGAN: Learning a Generative Model from a Single Natural Image (ICCV 2019)
-    * [Original Paper Link](https://arxiv.org/abs/1905.01164) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1905.01164) / [Paper Review Video](https://www.youtube.com/watch?v=PUtFz4vqXHQ) / [Summary PDF](/lecture_notes/MZSR.pdf) / Code Practice
 * A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
     * [Original Paper Link](https://arxiv.org/abs/1812.04948) / Paper Review Video / Summary PDF / Code Practice
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
