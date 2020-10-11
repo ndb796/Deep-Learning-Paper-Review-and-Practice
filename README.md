@@ -35,7 +35,7 @@
 * A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
     * [Original Paper Link](https://arxiv.org/abs/1812.04948) / Paper Review Video / Summary PDF / Code Practice
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
-    * [Original Paper Link](https://arxiv.org/abs/1711.09020) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1711.09020) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
     * [Original Paper Link](https://arxiv.org/abs/1406.2661) / Paper Review Video / Summary PDF / Code Practice
 
