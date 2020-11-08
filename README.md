@@ -26,7 +26,7 @@
 * Attention is All You Need (NIPS 2017)
     * [Original Paper Link](https://arxiv.org/abs/1706.03762) / Paper Review Video / Summary PDF / Code Practice
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
-    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / Paper Review Video / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / Code Practice
 
 #### Generative Model & Super Resolution (생성 모델 & 해상도 복원)
 
