@@ -11,7 +11,7 @@
 * Searching for MobileNetV3 (ICCV 2019)
     * [Original Paper Link](https://arxiv.org/abs/1905.02244) / Paper Review Video / Summary PDF / Code Practice
 * Deep Residual Learning for Image Recognition (CVPR 2016)
-    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / Paper Review Video / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
 * Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
     * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / Paper Review Video / Summary PDF / Code Practice
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
@@ -26,7 +26,7 @@
 * Attention is All You Need (NIPS 2017)
     * [Original Paper Link](https://arxiv.org/abs/1706.03762) / Paper Review Video / Summary PDF / Code Practice
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
-    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / Paper Review Video / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
 
 #### Generative Model & Super Resolution (생성 모델 & 해상도 복원)
 
@@ -55,7 +55,7 @@
 * Breaking certified defenses: Semantic adversarial examples with spoofed robustness certificates (ICLR 2020)
     * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
-    * [Original Paper Link](https://arxiv.org/abs/1907.11932) / Paper Review Video / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
     * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / Summary PDF / Code Practice
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
