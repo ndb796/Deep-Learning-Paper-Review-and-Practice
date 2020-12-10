@@ -24,7 +24,7 @@
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
     * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Paper Review Video / Summary PDF / Code Practice
 * Attention is All You Need (NIPS 2017)
-    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
