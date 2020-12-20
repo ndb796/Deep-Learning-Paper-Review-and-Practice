@@ -41,7 +41,7 @@
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
-    * [Original Paper Link](https://arxiv.org/abs/1406.2661) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1406.2661) / Paper Review Video / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
 
 #### Modeling & Optimization (모델링 & 최적화)
 
