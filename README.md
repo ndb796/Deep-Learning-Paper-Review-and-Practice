@@ -24,7 +24,7 @@
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
     * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Paper Review Video / Summary PDF / Code Practice
 * Attention is All You Need (NIPS 2017)
-    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / Paper Review Video / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA) / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
@@ -41,7 +41,7 @@
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
-    * [Original Paper Link](https://arxiv.org/abs/1406.2661) / Paper Review Video / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1406.2661) / [Paper Review Video](https://www.youtube.com/watch?v=AVvlDmhHgC4) / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
 
 #### Modeling & Optimization (모델링 & 최적화)
 
@@ -50,7 +50,7 @@
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1510.00149) / Paper Review Video / Summary PDF / Code Practice
 * Batch normalization: Accelerating deep network training by reducing internal covariate shift (PMLR 2015)
-    * [Original Paper Link](https://arxiv.org/abs/1502.03167) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1502.03167) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
 
 #### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
 
