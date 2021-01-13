@@ -50,7 +50,7 @@
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1510.00149) / Paper Review Video / Summary PDF / Code Practice
 * Batch normalization: Accelerating deep network training by reducing internal covariate shift (PMLR 2015)
-    * [Original Paper Link](https://arxiv.org/abs/1502.03167) / Paper Review Video / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1502.03167) / [Paper Review Video](https://www.youtube.com/watch?v=58fuWVu5DVU) / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
 
 #### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
 
