@@ -12,6 +12,8 @@
     * [Original Paper Link](https://arxiv.org/abs/1905.02244) / Paper Review Video / Summary PDF / Code Practice
 * Deep Residual Learning for Image Recognition (CVPR 2016)
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
+* Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (ICCV 2017)
+    * [Original Paper Link](https://arxiv.org/abs/1703.06868) / Paper Review Video / [Summary PDF](/lecture_notes/AdaIN%20Style%20Transfer.pdf) / [Code Practice](/code_practices/AdaIN_Style_Transfer_Tutorial.ipynb)
 * Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
     * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / Paper Review Video / [Summary PDF](/lecture_notes/Style%20Transfer.pdf) / [Code Practice](/code_practices/Style_Transfer_Tutorial.ipynb)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
