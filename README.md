@@ -39,7 +39,7 @@
 * SinGAN: Learning a Generative Model from a Single Natural Image (ICCV 2019)
     * [Original Paper Link](https://arxiv.org/abs/1905.01164) / Paper Review Video / Summary PDF / Code Practice
 * A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
-    * [Original Paper Link](https://arxiv.org/abs/1812.04948) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1812.04948) / Paper Review Video / [Summary PDF](/lecture_notes/StyleGAN.pdf) / Code Practice
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
