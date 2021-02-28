@@ -61,9 +61,9 @@
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
-    * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / [Summary PDF](/lecture_notes/Poison_Frogs.pdf) / [ResNet](/code_practices/One_Shot_Kill_Poison_Attack_ResNet.ipynb) / [AlexNet](/code_practices/One_Shot_Kill_Poison_Attack_AlexNet.ipynb)
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
-    * [Original Paper Link](https://arxiv.org/abs/1712.04248) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1712.04248) / [Paper Review Video](https://www.youtube.com/watch?v=3dX_SsO2mis) / [Summary PDF](/lecture_notes/Boundary_Attack.pdf) / Code Practice
 
 ### 지난 논문 리뷰 콘텐츠
 
