@@ -48,7 +48,7 @@
 #### Modeling & Optimization (모델링 & 최적화)
 
 * Bag of Tricks for Image Classification (CVPR 2019)
-    * [Original Paper Link](https://arxiv.org/abs/1812.01187) / Paper Review Video / Summary PDF
+    * [Original Paper Link](https://arxiv.org/abs/1812.01187) / Paper Review Video / [Summary PDF](/lecture_notes/Bag_of_Tricks_for_Image_Classification.pdf)
     * [CIFAR-10](/code_practices/ResNet18_CIFAR10_Basic_Training.ipynb) / [CIFAR-10 with Label Smoothing](/code_practices/ResNet18_CIFAR10_Training_with_Label_Smoothing.ipynb) / [CIFAR-10 with Input Mixup](/code_practices/ResNet18_CIFAR10_Training_with_Input_Mixup.ipynb) / [CIFAR-10 with Label Smoothing and Input Mixup](/code_practices/ResNet18_CIFAR10_Training_with_Input_Mixup_and_Label_Smoothing.ipynb)
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1510.00149) / Paper Review Video / Summary PDF / Code Practice
