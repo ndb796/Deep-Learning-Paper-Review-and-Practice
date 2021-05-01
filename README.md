@@ -61,6 +61,8 @@
     * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
+* Boosting Adversarial Attacks with Momentum (CVPR 2018 Spotlight)
+    * [Original Paper Link](https://arxiv.org/abs/1710.06081) / Paper Review Video / Summary PDF / [CIFAR-10](/code_practices/MI_FGSM_Attack_for_CIFAR_10.ipynb) / [ImageNet](/code_practices/MI_FGSM_Attack_for_ImageNet.ipynb)
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
     * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / [Summary PDF](/lecture_notes/Poison_Frogs.pdf) / [ResNet](/code_practices/One_Shot_Kill_Poison_Attack_ResNet.ipynb) / [AlexNet](/code_practices/One_Shot_Kill_Poison_Attack_AlexNet.ipynb)
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
