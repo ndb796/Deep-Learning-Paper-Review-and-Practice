@@ -59,6 +59,8 @@
 
 * Breaking certified defenses: Semantic adversarial examples with spoofed robustness certificates (ICLR 2020)
     * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
+* Sign-OPT: A Query-Efficient Hard-label Adversarial Attack (ICLR 2020)
+    * [Original Paper Link](https://arxiv.org/abs/1909.10773) / Paper Review Video / Summary PDF / Code Practice
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
 * Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach (ICLR 2019)
