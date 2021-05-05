@@ -17,7 +17,7 @@
 * Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
     * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=va3e2c4uKJk) / [Summary PDF](/lecture_notes/Style%20Transfer.pdf) / [Code Practice](/code_practices/Style_Transfer_Tutorial.ipynb)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
-    * [Original Paper Link](https://arxiv.org/abs/1506.01497) / Paper Review Video / Summary PDF / Code Practice
+    * [Original Paper Link](https://arxiv.org/abs/1506.01497) / Paper Review Video / [Summary PDF](/lecture_notes/Faster_R-CNN.pdf) / Code Practice
 
 #### Natural Language Processing (자연어 처리)
 
@@ -64,9 +64,9 @@
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
     * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
 * Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach (ICLR 2019)
-    * [Original Paper Link](https://arxiv.org/abs/1807.04457) / Paper Review Video / Summary PDF / [MNIST](/code_practices/Opt_Attack_for_MNIST.ipynb) / [CIFAR-10](/code_practices/Opt_Attack_for_CIFAR_10.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1807.04457) / Paper Review Video / [Summary PDF](/lecture_notes/OPT_Attack.pdf) / [MNIST](/code_practices/Opt_Attack_for_MNIST.ipynb) / [CIFAR-10](/code_practices/Opt_Attack_for_CIFAR_10.ipynb)
 * Boosting Adversarial Attacks with Momentum (CVPR 2018 Spotlight)
-    * [Original Paper Link](https://arxiv.org/abs/1710.06081) / Paper Review Video / Summary PDF / [CIFAR-10](/code_practices/MI_FGSM_Attack_for_CIFAR_10.ipynb) / [ImageNet](/code_practices/MI_FGSM_Attack_for_ImageNet.ipynb)
+    * [Original Paper Link](https://arxiv.org/abs/1710.06081) / Paper Review Video / [Summary PDF](/lecture_notes/Boosting_Adversarial_Attacks_with_Momentum.pdf) / [CIFAR-10](/code_practices/MI_FGSM_Attack_for_CIFAR_10.ipynb) / [ImageNet](/code_practices/MI_FGSM_Attack_for_ImageNet.ipynb)
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
     * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / [Summary PDF](/lecture_notes/Poison_Frogs.pdf) / [ResNet](/code_practices/One_Shot_Kill_Poison_Attack_ResNet.ipynb) / [AlexNet](/code_practices/One_Shot_Kill_Poison_Attack_AlexNet.ipynb)
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
