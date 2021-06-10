@@ -58,7 +58,7 @@
 #### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
 
 * HopSkipJumpAttack: A Query-Efficient Decision-Based Attack (S&P 2020)
-    * [Original Paper Link](https://arxiv.org/abs/1904.02144) / Paper Review Video/ Summary PDF / Targeted Attack / Untargeted Attack
+    * [Original Paper Link](https://arxiv.org/abs/1904.02144) / Paper Review Video/ Summary PDF / [Targeted Attack](/code_practices/Targeted_HopSkipJumpAttack_Using_CIFAR10.ipynb) / [Untargeted Attack](/code_practices/Untargeted_HopSkipJumpAttack_Using_CIFAR10.ipynb)
 * Breaking certified defenses: Semantic adversarial examples with spoofed robustness certificates (ICLR 2020)
     * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
 * Sign-OPT: A Query-Efficient Hard-label Adversarial Attack (ICLR 2020)
