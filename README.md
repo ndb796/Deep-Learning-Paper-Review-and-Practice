@@ -31,7 +31,6 @@
     * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
 * Show and Tell: A Neural Image Caption Generator (CVPR 2015)
     * [Original Paper Link](https://arxiv.org/abs/1411.4555) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Neural_Image_Captioning_(NIC)_Using_ResNet_101.ipynbb)
-
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
     * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
 
